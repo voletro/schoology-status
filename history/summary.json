@@ -27,7 +27,7 @@
     "url": "https://schoology.com",
     "icon": "https://icons.duckduckgo.com/ip3/schoology.com.ico",
     "slug": "main-schoology-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -39,6 +39,7 @@
     "timeMonth": 432,
     "timeYear": 715,
     "dailyMinutesDown": {
+      "2023-06-04": 0,
       "2023-02-27": 100,
       "2023-02-21": 17,
       "2023-02-15": 45,
