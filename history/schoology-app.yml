@@ -1,7 +1,7 @@
 url: https://app.schoology.com
-status: up
-code: 200
-responseTime: 1407
-lastUpdated: 2023-06-19T06:43:29.015Z
+status: down
+code: 500
+responseTime: 601
+lastUpdated: 2023-06-19T07:00:45.537Z
 startTime: Fri Apr 29 2022 08:49:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
